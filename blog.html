@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="reset.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="styleHorizontal.css" />
+    <link rel="stylesheet" href="styleVertical.css" />
+    <link rel="icon" href="assets/favicon.ico" />
+    <title>Blog</title>
+  </head>
+  <body>
+    <header class="bg-quarternary">
+      <a href="index.html">
+        <h1 class="name">André <span>Colombo</span></h1>
+      </a>
+      <nav>
+        <ul>
+          <li><a href="/#home">Home</a></li>
+          <li><a href="/#about">About me</a></li>
+          <li><a href="/#projects">Projects</a></li>
+          <li><a href="/#skills">Education & Skills</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="/#contacts">Contacts</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main class="bg-tertiary" id="blogs">
+      <section>
+        <h3><span class="text-tertiary">01</span>Case Studies</h3>
+        <div class="blogs">
+          <article class="blog" onclick="openArticle('article')">
+            <img src="assets/blog.png" alt="" />
+            <h5 class="text-quaternary">Creation of AndreFlix</h5>
+          </article>
+          <article class="blog" onclick="openArticle('article')">
+            <img src="assets/blog.png" alt="" />
+            <h5 class="text-quaternary">Creation of Andrefy</h5>
+          </article>
+          <article class="blog" onclick="openArticle('article')">
+            <img src="assets/blog.png" alt="" />
+            <h5 class="text-quaternary">Creation of My Portfolio</h5>
+          </article>
+          <article class="blog" onclick="openArticle('article')">
+            <img src="assets/blog.png" alt="" />
+            <h5 class="text-quaternary">Challenges Building a Responsive Website</h5>
+          </article>
+          <article class="blog" onclick="openArticle('article')">
+            <img src="assets/blog.png" alt="" />
+            <h5 class="text-quaternary">From HTML to React: Why I Decided to Rebuild My Portfolio</h5>
+          </article>
+        </div>
+      </section>
+      <section>
+        <h3><span class="text-tertiary">02</span>Code Insights</h3>
+        <div class="blogs">
+          <article class="blog" onclick="openArticle('article')">
+            <img src="assets/blog.png" alt="" />
+            <h5 class="text-quaternary">Article Title</h5>
+          </article>
+        </div>
+      </section>
+      <section>
+        <h3><span class="text-tertiary">03</span>UI/UX Decisions</h3>
+        <div class="blogs">
+          <article class="blog" onclick="openArticle('article')">
+            <img src="assets/blog.png" alt="" />
+            <h5 class="text-quaternary">Article Title</h5>
+          </article>
+        </div>
+      </section>
+      <section>
+        <h3><span class="text-tertiary">04</span>Challenges</h3>
+        <div class="blogs">
+          <article class="blog" onclick="openArticle('article')">
+            <img src="assets/blog.png" alt="" />
+            <h5 class="text-quaternary">Article Title</h5>
+          </article>
+        </div>
+      </section>
+      <section>
+        <h3><span class="text-tertiary">05</span>Learnings</h3>
+        <div class="blogs">
+          <article class="blog" onclick="openArticle('article')">
+            <img src="assets/blog.png" alt="" />
+            <h5 class="text-quaternary">Article Title</h5>
+          </article>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <p>©2025 Feito por André Colombo</p>
+    </footer>
+    <section class="popup hidden" id="article">
+      <div class="popup-area">
+        <div class="popup-content">
+          <button class="close" onclick="closeArticle('article')">
+            <img src="assets/close.svg" alt="X icon" />
+          </button>
+          <h1>Article Title</h1>
+          <hr />
+          <div class="article-text">
+            <p>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum fugiat quisquam suscipit nisi, dolor similique cumque ratione itaque quas laboriosam earum
+              vel! Alias quibusdam ipsa ducimus doloribus natus. Nostrum, ipsa. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores, beatae? Beatae impedit
+              corporis molestias explicabo totam labore repudiandae quidem qui, cupiditate dolor eum quas at corrupti iste. Necessitatibus, facilis reprehenderit!
+            </p>
+            <p>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum fugiat quisquam suscipit nisi, dolor similique cumque ratione itaque quas laboriosam earum
+              vel! Alias quibusdam ipsa ducimus doloribus natus. Nostrum, ipsa. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores, beatae? Beatae impedit
+              corporis molestias explicabo totam labore repudiandae quidem qui, cupiditate dolor eum quas at corrupti iste. Necessitatibus, facilis reprehenderit!
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>

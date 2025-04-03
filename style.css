@@ -1,0 +1,598 @@
+/* ========== Estilos de Elementos ========== */
+body {
+  width: 100%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+body.no-scroll {
+  overflow: hidden;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
+
+header a {
+  text-decoration: none;
+  color: black;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav ul li {
+  display: flex;
+  align-items: center;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+  color: #123458;
+  transition: 0.3s;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+footer p {
+  color: black;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bolder;
+  color: black;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+h3 span {
+  padding: 0.4% 0.5%;
+  border-radius: 10%;
+  margin-right: 1%;
+  background-color: #fff;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+h4 {
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+p {
+  line-height: 1.2;
+}
+
+strong {
+  font-weight: 500;
+  color: white;
+}
+
+hr {
+  border: 1px solid #123458;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  height: 2vw;
+  border: none;
+  border-radius: 0.3vw;
+  font-size: 0.85vw;
+  padding-left: 1.4%;
+}
+
+textarea {
+  border: none;
+  padding-left: 1.4%;
+  resize: none;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #123458 #f1efec;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+  border: none;
+  background-color: #123458;
+  color: white;
+  cursor: pointer;
+}
+
+button:active {
+  background-color: #0a213a;
+}
+
+/* ========== Estilos de Classe ========== */
+/* ----- Home ----- */
+.links {
+  display: flex;
+  padding-left: 1.3%;
+  gap: 1.7%;
+}
+
+.links a {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  color: #f1efec;
+  background-color: #123458;
+}
+
+.links a:active {
+  background-color: #0a213a;
+}
+
+.links img {
+  aspect-ratio: 1;
+}
+
+/* ----- About Me ----- */
+.presentation {
+  display: flex;
+  align-items: center;
+}
+
+.presentation-text {
+  display: flex;
+  flex-direction: column;
+  color: #f1efec;
+}
+
+.presentation p {
+  display: block;
+  line-height: 1.3;
+}
+
+/* ----- Projects ----- */
+.projects {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2vw;
+  color: #393939;
+}
+
+.project {
+  display: flex;
+  flex-direction: column;
+}
+
+.project img {
+  width: 100%;
+}
+
+.project-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #f1efec;
+}
+
+.project-footer p {
+  overflow-wrap: break-word;
+}
+
+.tech-stack em {
+  font-style: italic;
+  font-weight: 500;
+}
+
+.project-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.project-links a {
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  white-space: nowrap;
+  color: #123458;
+}
+
+.project-links img {
+  aspect-ratio: 1;
+}
+
+/* ----- Education & Skills ----- */
+.cards {
+  display: flex;
+  flex-direction: column;
+}
+
+.fiap_school {
+  max-width: 100%;
+}
+
+.row-cards {
+  display: flex;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 2%;
+  background-color: #f1efec;
+  color: black;
+}
+
+.card ul {
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.card li {
+  aspect-ratio: 1;
+  border-radius: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card li span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card li img {
+  width: 65%;
+  aspect-ratio: 1;
+}
+
+.card li img:hover {
+  width: 75%;
+  aspect-ratio: 1;
+  transition: 0.1s;
+}
+
+.date_local {
+  display: flex;
+  font-weight: bold;
+}
+
+.date_local img {
+  aspect-ratio: 1;
+}
+
+.date_local h4,
+.date_local p {
+  display: flex;
+  align-items: center;
+}
+
+/* --- Skills Blocks --- */
+.figma {
+  background-color: #937cd6;
+}
+
+.html {
+  background-color: #f08064;
+}
+
+.css {
+  background-color: #7da7f2;
+}
+
+.javascript {
+  background-color: #f7e96d;
+}
+
+.sqlserver {
+  background-color: #d36b6b;
+}
+
+.git {
+  background-color: #f58a6e;
+}
+
+.github {
+  background-color: #4a4a4a;
+}
+
+.nodejs {
+  background-color: #a2d96f;
+}
+
+.bootstrap {
+  background-color: #a586d3;
+}
+
+.mongodb {
+  background-color: #83d47a;
+}
+
+.firebase {
+  background-color: #ffd15f;
+}
+
+.cisco {
+  background-color: #f2d469;
+}
+
+.vite {
+  background-color: #a5a9ff;
+}
+
+.react {
+  background-color: #a6ebf7;
+}
+
+.tailwind {
+  background-color: #5cd4d0;
+}
+
+.azure {
+  background-color: #5faee3;
+}
+
+.ionic {
+  background-color: #85aaff;
+}
+
+.angular {
+  background-color: #ea7a7a;
+}
+
+.typescript {
+  background-color: #6c9cd7;
+}
+
+.unity {
+  background-color: #3e4b5f;
+}
+
+.csharp {
+  background-color: #c083c0;
+}
+
+.python {
+  background-color: #ffe36e;
+}
+
+.java {
+  background-color: #4696c5;
+}
+
+.alura {
+  background-color: #1c3f70;
+}
+
+.conquer {
+  background-color: #fff133;
+}
+
+/* ----- Contacts ----- */
+.contact {
+  width: 100%;
+  display: flex;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+  color: black;
+}
+
+.socials img {
+  aspect-ratio: 1;
+  border-radius: 10%;
+}
+
+.socials a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+}
+
+/* ----- Pop-Ups ----- */
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 4;
+}
+
+.popup-area {
+  position: relative;
+  overflow: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #123458 #f1efec;
+  background-color: #f1efec;
+  color: #393939;
+}
+
+.popup-content h1 {
+  font-weight: bold;
+  min-height: auto;
+}
+
+.popup-content h2 {
+  font-weight: 500;
+  min-height: auto;
+}
+
+.close {
+  position: absolute;
+  background: transparent;
+  justify-content: center;
+  align-items: center;
+}
+
+.close:active {
+  background: transparent;
+}
+
+.hidden {
+  display: none;
+}
+
+/* ----- Certifications ----- */
+.certifications {
+  min-width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.immersions {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.immersion {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.immersions a {
+  text-decoration: none;
+  color: #123458;
+  display: flex;
+  align-items: center;
+}
+
+.courses {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.course {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.course a {
+  text-decoration: none;
+  color: #123458;
+  display: flex;
+  align-items: center;
+}
+
+/* ----- Blogs ----- */
+.blogs {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.blog {
+  cursor: pointer;
+  position: relative;
+}
+
+.blog img {
+  width: 100%;
+  display: block;
+}
+
+.blog::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+  pointer-events: none;
+}
+
+.blog:hover::after {
+  background-color: rgba(0, 0, 0, 0.25);
+  transition: 0.5s;
+}
+
+.blog h5 {
+  position: absolute;
+  z-index: 2;
+  font-weight: bold;
+}
+
+/* ----- Paleta de Cores ----- */
+.bg-primary {
+  background-color: #123458;
+}
+
+.bg-secondary {
+  background-color: #d4c9be;
+}
+
+.bg-tertiary {
+  background-color: #393939;
+}
+
+.bg-quarternary {
+  background-color: #f1efec;
+}
+
+/* ----- Tipografia ----- */
+.text-primary {
+  color: #123458;
+}
+
+.text-secondary {
+  color: #d4c9be;
+}
+
+.text-tertiary {
+  color: #393939;
+}
+
+.text-quaternary {
+  color: #f1efec;
+}
+
+/* ========== Estilos de ID ========== */
+/* ----- Sections ----- */
+#home {
+  justify-content: center;
+}
+
+#home p {
+  margin: 2.5% 1.3%;
+  width: 40%;
+  color: black;
+}
