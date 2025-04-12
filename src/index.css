@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  --color-primary: #123458;
+  --color-secondary: #f1efec;
+  --color-tertiary: #d4c9be;
+  --color-quaternary: #393939;
+}
+
+@layer components {
+  highlight {
+    @apply font-medium text-white;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #123458;
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}

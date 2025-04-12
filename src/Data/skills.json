@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Visual Studio Code",
+    "color": "#5D99C8 ",
+    "icon": "/Skills/vscode.svg",
+    "alt": "Visual Studio Code icon",
+    "ano": "1EMIA"
+  },
+  {
+    "title": "Figma",
+    "color": "#937CD6",
+    "icon": "/Skills/figma.svg",
+    "alt": "Figma icon",
+    "ano": "1EMIA"
+  },
+  {
+    "title": "HTML",
+    "color": "#F08064",
+    "icon": "/Skills/html.svg",
+    "alt": "HTML icon",
+    "ano": "1EMIA"
+  },
+  {
+    "title": "CSS",
+    "color": "#7DA7F2",
+    "icon": "/Skills/css.svg",
+    "alt": "CSS icon",
+    "ano": "1EMIA"
+  },
+  {
+    "title": "JavaScript",
+    "color": "#F7E96D",
+    "icon": "/Skills/javascript.svg",
+    "alt": "JavaScript icon",
+    "ano": "1EMIA"
+  },
+  {
+    "title": "Microsoft SQL Server",
+    "color": "#D36B6B",
+    "icon": "/Skills/sqlserver.svg",
+    "alt": "Microsoft SQL Server icon",
+    "ano": "1EMIA"
+  },
+  {
+    "title": "Git",
+    "color": "#f58a6e",
+    "icon": "/Skills/git.svg",
+    "alt": "Git icon",
+    "ano": "2EMIA"
+  },
+  {
+    "title": "GitHub",
+    "color": "#4A4A4A",
+    "icon": "/Skills/github.svg",
+    "alt": "GitHub icon",
+    "ano": "2EMIA"
+  },
+  {
+    "title": "Node.js",
+    "color": "#a2d96f",
+    "icon": "/Skills/nodejs.svg",
+    "alt": "Node.js icon",
+    "ano": "2EMIA"
+  },
+  {
+    "title": "Bootstrap",
+    "color": "#a586d3",
+    "icon": "/Skills/bootstrap.svg",
+    "alt": "Bootstrap icon",
+    "ano": "2EMIA"
+  },
+  {
+    "title": "MongoDB",
+    "color": "#83d47a",
+    "icon": "/Skills/mongodb.svg",
+    "alt": "MongoDB icon",
+    "ano": "2EMIA"
+  },
+  {
+    "title": "Firebase",
+    "color": "#ffd15f",
+    "icon": "/Skills/firebase.svg",
+    "alt": "Firebase icon",
+    "ano": "2EMIA"
+  },
+  {
+    "title": "Cisco Packet Tracer",
+    "color": "#f2d469",
+    "icon": "/Skills/cisco.svg",
+    "alt": "Cisco Packet Tracer icon",
+    "ano": "2EMIA"
+  },
+  {
+    "title": "Vite",
+    "color": "#a5a9ff",
+    "icon": "/Skills/vite.svg",
+    "alt": "Vite icon",
+    "ano": "3EMIA"
+  },
+  {
+    "title": "React",
+    "color": "#A6EBF7",
+    "icon": "/Skills/react.svg",
+    "alt": "React icon",
+    "ano": "3EMIA"
+  },
+  {
+    "title": "Tailwind CSS",
+    "color": "#5cd4d0",
+    "icon": "/Skills/tailwindcss.svg",
+    "alt": "Tailwind CSS icon",
+    "ano": "3EMIA"
+  },
+  {
+    "title": "Microsoft Azure",
+    "color": "#5faee3",
+    "icon": "/Skills/azure.svg",
+    "alt": "Microsoft Azure icon",
+    "ano": "3EMIA"
+  },
+  {
+    "title": "Ionic",
+    "color": "#85aaff",
+    "icon": "/Skills/ionic.svg",
+    "alt": "Ionic icon",
+    "ano": "3EMIA"
+  },
+  {
+    "title": "Angular",
+    "color": "#ea7a7a",
+    "icon": "/Skills/angular.svg",
+    "alt": "Angular icon",
+    "ano": "3EMIA"
+  },
+  {
+    "title": "TypeScript",
+    "color": "#6c9cd7",
+    "icon": "/Skills/typescript.svg",
+    "alt": "TypeScript icon",
+    "ano": "3EMIA"
+  },
+  {
+    "title": "Unity",
+    "color": "#3e4b5f",
+    "icon": "/Skills/unity.svg",
+    "alt": "Unity icon",
+    "ano": "3EMIA"
+  },
+  {
+    "title": "C#",
+    "color": "#c083c0",
+    "icon": "/Skills/csharp.svg",
+    "alt": "C# icon",
+    "ano": "3EMIA"
+  },
+  {
+    "title": "Python",
+    "color": "#FFE36E",
+    "icon": "/Skills/python.svg",
+    "alt": "Python icon",
+    "ano": "1TDSA"
+  },
+  {
+    "title": "Java",
+    "color": "#4696C5",
+    "icon": "/Skills/java.svg",
+    "alt": "Java icon",
+    "ano": "1TDSA"
+  },
+  {
+    "title": "IntelliJ IDEA",
+    "color": "#937CD6",
+    "icon": "/Skills/intellijidea.svg",
+    "alt": "IntelliJ IDEA icon",
+    "ano": "1TDSA"
+  },
+  {
+    "title": "Node-RED",
+    "color": "#C35A5A",
+    "icon": "/Skills/nodered.svg",
+    "alt": "Node-RED icon",
+    "ano": "1TDSA"
+  }
+]

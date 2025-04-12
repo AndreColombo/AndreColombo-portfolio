@@ -1,0 +1,29 @@
+[
+  {
+    "name": "AndreFlix",
+    "description": "Project description goes here.",
+    "descricao": "",
+    "print": "/Projects/andreflix.png",
+    "techs": "Vite, React, Tailwind CSS, TMDB API",
+    "vercel": "https://andre-flix.vercel.app/",
+    "github": "https://github.com/AndreColombo/AndreFlix"
+  },
+  {
+    "name": "Andrefy",
+    "description": "Project description goes here.",
+    "descricao": "",
+    "print": "/Projects/andrefy.png",
+    "techs": "Vite, React, Tailwind CSS, MongoDB",
+    "vercel": "https://andrefy.vercel.app/",
+    "github": "https://github.com/AndreColombo/Andrefy"
+  },
+  {
+    "name": "FaunaGuard",
+    "description": "Project description goes here.",
+    "descricao": "",
+    "print": "/Projects/faunaguard.png",
+    "techs": "HTML, CSS",
+    "pages": "https://andrecolombo.github.io/FaunaGuard/",
+    "github": "https://github.com/AndreColombo/FaunaGuard"
+  }
+]
