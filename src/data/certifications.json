@@ -1,0 +1,154 @@
+[
+  {
+    "platform": "Alura",
+    "type": "Immersion",
+    "name": "Artificial Intelligence Immersion - 2nd Edition",
+    "certificate": "/Certifications/aluraImmersion1.png",
+    "link": "https://cursos.alura.com.br/user/andrecolombo/immersion/certificate/33220?lang=en",
+    "icon": "/Certifications/aluraImmersion.svg"
+  },
+  {
+    "platform": "Alura",
+    "type": "Immersion",
+    "name": "Dev Immersion with Google Gemini",
+    "certificate": "/Certifications/aluraImmersion2.png",
+    "link": "https://cursos.alura.com.br/user/andrecolombo/immersion/certificate/40158?lang=en",
+    "icon": "/Certifications/aluraImmersion.svg"
+  },
+  {
+    "platform": "Alura",
+    "type": "Immersion",
+    "name": "Back-End Dev Immersion",
+    "certificate": "/Certifications/aluraImmersion3.png",
+    "link": "https://cursos.alura.com.br/user/andrecolombo/immersion/certificate/50987?lang=en",
+    "icon": "/Certifications/aluraImmersion.svg"
+  },
+  {
+    "platform": "Alura",
+    "type": "Immersion",
+    "name": "Front-End Immersion - 2nd Edition",
+    "certificate": "/Certifications/aluraImmersion4.png",
+    "link": "https://cursos.alura.com.br/user/andrecolombo/immersion/certificate/57227?lang=en",
+    "icon": "/Certifications/aluraImmersion.svg"
+  },
+  {
+    "platform": "Alura",
+    "type": "Immersion",
+    "name": "Dev Immersion – 9th Edition",
+    "certificate": "/Certifications/aluraImmersion5.png",
+    "link": "https://cursos.alura.com.br/user/andrecolombo/immersion/certificate/64177?lang=en",
+    "icon": "/Certifications/aluraImmersion.svg"
+  },
+  {
+    "platform": "Alura",
+    "type": "Immersion",
+    "name": "Mobile Immersion",
+    "certificate": "/Certifications/aluraImmersion6.png",
+    "link": "?lang=en",
+    "icon": "/Certifications/aluraImmersion.svg"
+  },
+  {
+    "platform": "Alura",
+    "type": "Course",
+    "name": "Programming logic: dive into programming with JavaScript",
+    "certificate": "/Certifications/aluraCourse1.png",
+    "link": "https://cursos.alura.com.br/user/andrecolombo/course/logica-programacao-mergulhe-programacao-javascript/certificate?lang=en",
+    "icon": "https://www.alura.com.br/assets/api/cursos/logica-programacao-mergulhe-programacao-javascript.svg"
+  },
+  {
+    "platform": "Alura",
+    "type": "Course",
+    "name": "HTML and CSS: development environments, file structure and tags",
+    "certificate": "/Certifications/aluraCourse2.png",
+    "link": "https://cursos.alura.com.br/user/andrecolombo/course/html-css-ambiente-arquivos-tags/certificate?lang=en",
+    "icon": "https://www.alura.com.br/assets/api/cursos/html-css-ambiente-arquivos-tags.svg"
+  },
+  {
+    "platform": "Alura",
+    "type": "Course",
+    "name": "Starting in Programming: career and first steps",
+    "certificate": "/Certifications/aluraCourse3.png",
+    "link": "https://cursos.alura.com.br/user/andrecolombo/course/comecando-programacao-carreira-primeiros-passos/certificate?lang=en",
+    "icon": "https://www.alura.com.br/assets/api/cursos/comecando-programacao-carreira-primeiros-passos.svg"
+  },
+  {
+    "platform": "Alura",
+    "type": "Course",
+    "name": "Programming logic: explore functions and lists",
+    "certificate": "/Certifications/aluraCourse4.png",
+    "link": "https://cursos.alura.com.br/user/andrecolombo/course/logica-programacao-funcoes-listas/certificate?lang=en",
+    "icon": "https://www.alura.com.br/assets/api/cursos/logica-programacao-funcoes-listas.svg"
+  },
+  {
+    "platform": "Conquer",
+    "type": "Course",
+    "name": "Artificial Intelligence: Boost Your Productivity and Accelerate Your Career",
+    "certificate": "/Certifications/conquerCourse1.png",
+    "link": "https://conquerplus.com.br/certificates/b930eda9-0f34-4c0e-adfc-f7a0d8bc855e",
+    "icon": "/Certifications/conquerCourse.svg"
+  },
+  {
+    "platform": "Conquer",
+    "type": "Course",
+    "name": "Emotional Intelligence 4.0",
+    "certificate": "/Certifications/conquerCourse2.png",
+    "link": "https://conquerplus.com.br/certificates/b1f55c0b-b891-4e72-a16e-a7808dca22c5",
+    "icon": "/Certifications/conquerCourse.svg"
+  },
+  {
+    "platform": "Conquer",
+    "type": "Course",
+    "name": "Leadership Training",
+    "certificate": "/Certifications/conquerCourse3.png",
+    "link": "https://conquerplus.com.br/certificates/38ae4743-10e5-4db7-9c36-a47067b26d45",
+    "icon": "/Certifications/conquerCourse.svg"
+  },
+  {
+    "platform": "Conquer",
+    "type": "Course",
+    "name": "FOCUS: Essential Skills to Unlock Your Potential",
+    "certificate": "/Certifications/conquerCourse4.png",
+    "link": "https://conquerplus.com.br/certificates/76ac52fc-207d-4e42-b852-f87b1bcd500b",
+    "icon": "/Certifications/conquerCourse.svg"
+  },
+  {
+    "platform": "Conquer",
+    "type": "Course",
+    "name": "The Science and Strategy of Sales",
+    "certificate": "/Certifications/conquerCourse5.png",
+    "link": "",
+    "icon": "/Certifications/conquerCourse.svg"
+  },
+  {
+    "platform": "FIAP",
+    "type": "Nano",
+    "name": "Social Development and Sustainability",
+    "certificate": "/Certifications/fiapCourse1.png",
+    "link": "",
+    "icon": "/Certifications/fiapCourse.svg"
+  },
+  {
+    "platform": "FIAP",
+    "type": "Nano",
+    "name": "",
+    "certificate": "/Certifications/fiapCourse2.png",
+    "link": "",
+    "icon": "/Certifications/fiapCourse.svg"
+  },
+  {
+    "platform": "FIAP",
+    "type": "Nano",
+    "name": "",
+    "certificate": "/Certifications/fiapCourse3.png",
+    "link": "",
+    "icon": "/Certifications/fiapCourse.svg"
+  },
+  {
+    "platform": "FIAP",
+    "type": "Nano",
+    "name": "",
+    "certificate": "/Certifications/fiapCourse4.png",
+    "link": "",
+    "icon": "/Certifications/fiapCourse.svg"
+  }
+]
