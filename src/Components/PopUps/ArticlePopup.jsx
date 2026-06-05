@@ -21,14 +21,14 @@ export default function ArticlePopup({ id, onClose }) {
         <article className="bg-tertiary text-quaternary fixed flex h-5/6 w-5/6 flex-col overflow-y-auto rounded-2xl px-8">
           <header className="bg-tertiary sticky top-0 w-full pt-8">
             <div className="flex w-full items-center justify-between">
-              <div className="flex items-center gap-4">
+              <div className="flex flex-col items-center gap-4 xl:flex-row">
                 <h1 className="text-lg font-semibold xl:text-2xl">
                   {isPortuguese ? article.titulo : article.title}
                 </h1>
-                <hr className="border-primary h-8 border-1" />
-                <div className="flex gap-3">
+                <hr className="border-primary hidden h-8 border-1 xl:flex" />
+                <div className="flex gap-3 self-start xl:self-center">
                   {article.tags.map((tag) => (
-                    <span className="bg-primary/85 rounded px-3 py-1 text-xs text-white">
+                    <span className="bg-primary/75 rounded px-2.5 py-0.5 text-sm text-white">
                       {tag}
                     </span>
                   ))}

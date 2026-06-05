@@ -25,5 +25,14 @@
     "techs": "HTML, CSS",
     "pages": "https://andrecolombo.github.io/FaunaGuard/",
     "github": "https://github.com/AndreColombo/FaunaGuard"
+  },
+  {
+    "name": "Sabores do Front",
+    "description": "Project description goes here.",
+    "descricao": "",
+    "print": "/Projects/saboresdofront.png",
+    "techs": "Vite, React, Tailwind CSS",
+    "vercel": "https://sabores-do-front-three.vercel.app/",
+    "github": "https://github.com/AndreColombo/1TDSA/tree/main/Front-end/CP-05"
   }
 ]

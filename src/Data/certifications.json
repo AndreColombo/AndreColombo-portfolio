@@ -116,8 +116,8 @@
     "nome": "Git e GitHub: compartilhando e colaborando em projetos",
     "certificate": "/Certifications/Alura/aluraCourse5.png",
     "certificado": "/Certifications/Alura/cursoAlura5.png",
-    "linkEN": "?lang=en",
-    "linkPT": "",
+    "linkEN": "https://cursos.alura.com.br/certificate/andrecolombo/git-github-compartilhando-colaborando-projetos?lang=en",
+    "linkPT": "https://cursos.alura.com.br/certificate/andrecolombo/git-github-compartilhando-colaborando-projetos",
     "icon": "https://www.alura.com.br/assets/api/cursos/git-github-compartilhando-colaborando-projetos.svg"
   },
   {
@@ -171,8 +171,8 @@
     "nome": "A ciência e a estratégia das vendas",
     "certificate": "/Certifications/Conquer/cursoConquer5.png",
     "certificado": "/Certifications/Conquer/cursoConquer5.png",
-    "linkEN": "",
-    "linkPT": "",
+    "linkEN": "https://conquerplus.com.br/certificates/bc9af6ef-36f6-457d-8b4c-4a739406f02f",
+    "linkPT": "https://conquerplus.com.br/certificates/bc9af6ef-36f6-457d-8b4c-4a739406f02f",
     "icon": "/Certifications/Conquer/cursoConquer.svg"
   },
   {
@@ -180,21 +180,21 @@
     "type": "Nano",
     "name": "Social Development and Sustainability",
     "nome": "Formação Social e Sustentabilidade",
-    "certificate": "/Certifications/Fiap/fiapCourse1.png",
+    "certificate": "/Certifications/Fiap/cursoFiap1.png",
     "certificado": "/Certifications/Fiap/cursoFiap1.png",
-    "linkEN": "",
-    "linkPT": "",
+    "linkEN": "https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=2ec9f3733a209ccbe2b2ff097e239c01&action=view",
+    "linkPT": "https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=2ec9f3733a209ccbe2b2ff097e239c01&action=view",
     "icon": "/Certifications/Fiap/fiapCourse.svg"
   },
   {
     "platform": "FIAP",
     "type": "Nano",
-    "name": "",
-    "nome": "",
-    "certificate": "/Certifications/Fiap/fiapCourse2.png",
+    "name": "Oracle Database",
+    "nome": "Banco de dados Oracle",
+    "certificate": "/Certifications/Fiap/cursoFiap2.png",
     "certificado": "/Certifications/Fiap/cursoFiap2.png",
-    "linkEN": "",
-    "linkPT": "",
+    "linkEN": "https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=ec39316db7a5e6d0a6bcba9f9781214c&action=view",
+    "linkPT": "https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=ec39316db7a5e6d0a6bcba9f9781214c&action=view",
     "icon": "/Certifications/Fiap/fiapCourse.svg"
   },
   {
@@ -218,6 +218,17 @@
     "linkEN": "",
     "linkPT": "",
     "icon": "/Certifications/Fiap/fiapCourse.svg"
+  },
+  {
+    "platform": "FreeCodeCamp",
+    "type": "Course",
+    "name": "Foundational C# with Microsoft",
+    "nome": "",
+    "certificate": "/Certifications/FreeCodeCamp/.png",
+    "certificado": "/Certifications/FreeCodeCamp/.png",
+    "linkEN": "https://www.freecodecamp.org/certification/andrerosacolombo/foundational-c-sharp-with-microsoft",
+    "linkPT": "https://www.freecodecamp.org/certification/andrerosacolombo/foundational-c-sharp-with-microsoft",
+    "icon": "/Certifications/FreeCodeCamp/.svg"
   },
   {
     "platform": "Mimo",

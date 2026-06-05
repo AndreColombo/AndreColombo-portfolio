@@ -11,7 +11,7 @@ export default function Header() {
 
   return (
     <>
-      <header className="bg-secondary flex items-center justify-between gap-4 px-[6.25vw] py-[5.21vw] xl:px-[12.5vw] xl:py-[2.9vh]">
+      <header className="bg-secondary flex items-center justify-between gap-4 px-[6.25vw] py-[5.21vw] shadow-2xl xl:px-[12.5vw] xl:py-[2.9vh]">
         <a href={isPortuguese ? "/pt" : "/en"}>
           <h1 className="text-2xl xl:text-3xl">
             André <strong>Colombo</strong>

@@ -4,7 +4,7 @@
     "date": "13/04/2025",
     "title": "Creation of AndreFlix: My First Streaming-Style App",
     "titulo": "Criação do AndreFlix: Meu Primeiro App Estilo Streaming",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -13,7 +13,7 @@
     "date": "13/04/2025",
     "title": "Building Andrefy: A Spotify-Inspired Experience",
     "titulo": "Construindo Andrefy: Uma Experiência Inspirada no Spotify",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -22,7 +22,7 @@
     "date": "13/04/2025",
     "title": "How I Designed and Developed My Portfolio Website",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -31,7 +31,7 @@
     "date": "13/04/2025",
     "title": "Integrating Contact Forms with EmailJS in HTML",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -40,7 +40,7 @@
     "date": "13/04/2025",
     "title": "Why I Chose Sticky Headers over “Back to Top” Buttons",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -49,7 +49,7 @@
     "date": "13/04/2025",
     "title": "How I Handled JSON-Based Article Rendering",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -58,7 +58,7 @@
     "date": "13/04/2025",
     "title": "A Simple Way to Darken Images with Pseudo-Elements",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -67,7 +67,7 @@
     "date": "13/04/2025",
     "title": "Understanding the Difference Between italic and oblique in CSS",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -76,7 +76,7 @@
     "date": "13/04/2025",
     "title": "Why I Chose a Dark Theme for My Portfolio",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -85,7 +85,7 @@
     "date": "13/04/2025",
     "title": "Using Section Numbers to Guide the User Through My Site",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -94,7 +94,7 @@
     "date": "13/04/2025",
     "title": "The Role of Sticky Navigation in Simplifying User Experience",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -103,7 +103,7 @@
     "date": "13/04/2025",
     "title": "How I Balanced Aesthetics and Readability in My Project Cards",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -112,7 +112,7 @@
     "date": "13/04/2025",
     "title": "Challenges Building a Responsive Website",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -121,7 +121,7 @@
     "date": "13/04/2025",
     "title": "Debugging MongoDB Deploy Issues on Vercel",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -130,7 +130,7 @@
     "date": "13/04/2025",
     "title": "Dealing with Tailwind Not Applying Styles",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -139,7 +139,7 @@
     "date": "13/04/2025",
     "title": "The Struggle of Organizing a Scalable CSS Structure",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -148,7 +148,7 @@
     "date": "13/04/2025",
     "title": "What I Learned About UX by Redesigning My Portfolio",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -157,7 +157,7 @@
     "date": "13/04/2025",
     "title": "Understanding How Sections and Color Palettes Impact Flow",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -166,7 +166,7 @@
     "date": "13/04/2025",
     "title": "How Creating a Personal Blog Taught Me HTML Semantics",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   },
@@ -175,7 +175,7 @@
     "date": "13/04/2025",
     "title": "Things I Learned Switching Between Vanilla HTML and React",
     "titulo": "",
-    "tags": [],
+    "tags": ["tag"],
     "content": [],
     "conteudo": []
   }

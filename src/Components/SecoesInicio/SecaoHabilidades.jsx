@@ -9,6 +9,7 @@ export default function SecaoHabilidades() {
   const [showAlura, setShowAlura] = useState(false);
   const [showConquer, setShowConquer] = useState(false);
   const [showFiap, setShowFiap] = useState(false);
+  const [showCodeCamp, setShowCodeCamp] = useState(false);
   const [showMimo, setShowMimo] = useState(false);
 
   return (
@@ -231,6 +232,19 @@ export default function SecaoHabilidades() {
                   </span>
                 </li>
                 <li
+                  className="flex aspect-square size-10 cursor-pointer justify-center rounded-md bg-[#0A0A23] xl:size-16"
+                  title="FreeCodeCamp"
+                  onClick={() => setShowCodeCamp(true)}
+                >
+                  <span className="flex items-center justify-center">
+                    <img
+                      className="size-7 transition-all duration-300 hover:size-9 xl:size-9 xl:hover:size-11"
+                      src="/Certifications/freecodecamp.svg"
+                      alt="FreeCodeCamp logo"
+                    />
+                  </span>
+                </li>
+                <li
                   className="flex aspect-square size-10 cursor-pointer justify-center rounded-md bg-[#434670] xl:size-16"
                   title="Mimo"
                   onClick={() => setShowMimo(true)}
@@ -250,6 +264,7 @@ export default function SecaoHabilidades() {
         {showAlura && <AluraPopup onClose={() => setShowAlura(false)} />}
         {showConquer && <ConquerPopup onClose={() => setShowConquer(false)} />}
         {showFiap && <FiapPopup onClose={() => setShowFiap(false)} />}
+        {showCodeCamp && <CodeCampPopup onClose={() => setShowCodeCamp(false)} />}
         {showMimo && <MimoPopup onClose={() => setShowMimo(false)} />}
       </section>
     </>
